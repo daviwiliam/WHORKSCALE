@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.error {
+    width: 300px;
+    height: 30px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(138, 0, 0);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+/* login style*/
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 400px;
+    height: 420px;
+    background: #fff;
+    text-align: center;
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    
+}
+
+.head{
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.head h1{
+    padding-right: 7px;
+}
+
+.head img{
+    max-width: 40px;
+    max-height: 40px;
+}
+
+form{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.matricula{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+
+}
+
+.senha{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.matricula label{
+    text-align: start;
+    margin-bottom: 5px;
+}
+
+.senha label{
+    text-align: start;
+    margin-bottom: 5px;
+}
+
+input{
+    height: 30px;
+    width: 300px;
+    padding-left: 5px;
+    border-radius: 5px;
+    border: 1px solid #d3d3d3;
+    font-size: 15px;
+}
+
+input:hover{
+    border: 1px solid #5f5f5f;
+}
+
+.botao{
+    height: 40px;
+    width: 300px;
+    margin-top: 40px;
+    background: #000;
+    color: #ffffff;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.botao:hover{
+    border: none;
+}
+
+
+/* Content style */
+
+.logo{
+    padding: 10px;
+    justify-content: start;
+    max-height: 50px;
+    background: #000;
+    color: #ffffff;
+}
+
+.logo h1{
+    font-size: 20px;
+}
+
+.logo img{
+    max-height: 27px;
+    max-width: 27px;
+}
+
+.logo a{
+    position: absolute;
+    right: 0;
+    text-decoration: none;
+    color: #fff;
+    padding-right: 10px;
+    font-size: 15px;
+}
+
+.welcome{
+    height: 10px;
+    padding: 15px 0 0 10px;
+    color: #5f5f5f;
+}
+
+
+.titlescale {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 30px;
+}
+
+.area{
+    width: 100%;
+    height: 673px;
+    width: 100%;
+    background: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.scale{
+    width: 400px;
+    height: 450px;
+    background: #ffffff;
+    text-align: center;
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    
+}
+
+.today{
+    max-height: 100px;
+    padding: 10px 0 10px 0;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.data{
+    height: 320px;
+} 
+
+.dia{
+    padding-top: 10px;
+    font-size: 130px;
+}
+
+.mes{
+    font-size: 30px;
+}
+
+.ano{
+    font-size: 20px;
+}
+
+.infoscale{
+    max-height: 100px;
+    padding: 15px 0 10px 0;
+    border-top: 1px solid #d3d3d3;
+    font-size: 18px;
+}
+
+.footer{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+    font-size: 14px;
+    background: #000;
+    color: #ffffff;
+}

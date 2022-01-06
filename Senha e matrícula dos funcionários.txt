@@ -1,0 +1,25 @@
+*Senha é o primeiro nome + 123*
+
+equipe 1 - 8am às 20pm
+
+Ryan Santos - 394828
+Renan Correia - 508075
+Luiz Ribeiro - 508075
+
+equipe 2 - 20pm às 8am
+
+Vinicius Melo -  641628 
+Kaua Cavalcanti - 775897
+Paulo Cardoso - 917857
+
+equipe 3 - 8am às 20pm
+
+Marcos Ferreira - 726870
+Lucas Cunha - 998526
+Julio Goncalves -  321833
+	
+equipe 4 - 20pm às 8am
+
+Julian Oliveira - 533861
+Joao Almeida - 413025
+Tiago Martins - 573268
